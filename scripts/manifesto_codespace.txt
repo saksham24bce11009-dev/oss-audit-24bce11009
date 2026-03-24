@@ -1,0 +1,3 @@
+On 24 March 2026, I declare that tools like Git empower me.
+To me, software freedom means Innovation.
+In the future, I commit to building and sharing A First-Aid Recommnedation System openly.
